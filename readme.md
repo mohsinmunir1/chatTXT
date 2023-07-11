@@ -24,6 +24,7 @@ Make a copy of `.env.example` file and put your OpenAI API key in the appropriat
 Make sure you have `python3.11` installed in your system 🐍
 - You can download and install Python 3.11 from the official Python website: [https://www.python.org/downloads](https://www.python.org/downloads)
 
+## Setup 💻
 Run the following command to install the `virtualenv` package:
 ```
 python3.11 -m pip install virtualenv
@@ -49,6 +50,8 @@ Install packages from `Pipfile` using:
 pipenv install
 ```
 
+## Running the app 🌐
+
 Once the packages are installed, run the following command to start the application:
 ```
 streamlit run app.py
@@ -57,7 +60,7 @@ streamlit run app.py
 It will open a webpage in your browser 🌐
 - If it doesn't automatically open, you can manually visit `http://localhost:8501` in your browser.
 
-Browse and select a `.txt` file with the source information, and enter any query regarding the source provided.
+Browse and select a `.csv` file with the source information, and enter any query regarding the source provided.
 
 Click on the submit button to generate and see a response for your query. 👍
 
