@@ -60,7 +60,7 @@ streamlit run app.py
 It will open a webpage in your browser 🌐
 - If it doesn't automatically open, you can manually visit `http://localhost:8501` in your browser.
 
-Browse and select a `.csv` file with the source information, and enter any query regarding the source provided.
+Browse and select a `.txt` file with the source information, and enter any query regarding the source provided.
 
 Click on the submit button to generate and see a response for your query. 👍
 
@@ -68,6 +68,7 @@ Make sure to properly configure your `.env` file with the API key and other nece
 
 ## Also check these out 👀
 - [Langchain chat with CSV file](https://github.com/mohsinmunir1/chatCSV)
+- [Langchain chat with PDF file](https://github.com/mohsinmunir1/chatPDF)
 
 ## Credits 🙌
 
