@@ -66,6 +66,9 @@ Click on the submit button to generate and see a response for your query. 👍
 
 Make sure to properly configure your `.env` file with the API key and other necessary environment variables before running the application.
 
+## Demo link 🔗
+https://chattxt.streamlit.app/
+
 ## Also check these out 👀
 - [Langchain chat with CSV file](https://github.com/mohsinmunir1/chatCSV)
 - [Langchain chat with PDF file](https://github.com/mohsinmunir1/chatPDF)
